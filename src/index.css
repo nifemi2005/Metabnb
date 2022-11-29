@@ -1,13 +1,132 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.grid-item1{
+    background-image: url(../src/Images/Grid-image1.png);
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-start;
+    padding-top: 15px;
+    padding-right: 20px;
 }
+.grid-item2 {
+    background-image: url(../src/Images/Grid-image2.png);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding-top: 15px;
+    padding-right: 20px;
+}
+.grid-item3 {
+    background-image: url(../src/Images/Grid-image3.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 15px;
+    padding-right: 20px;
+    align-items: flex-start;
+}
+.grid-item4 {
+    background-image: url(../src/Images/Grid-image4.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item5 {
+    background-image: url(../src/Images/Grid-image5.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item6 {
+    background-image: url(../src/Images/Grid-image6.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item7 {
+    background-image: url(../src/Images/Grid-image7.png);
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+.grid-item8 {
+    background-image: url(../src/Images/Grid-image8.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item9 {
+    background-image: url(../src/Images/image-3.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item10 {
+    background-image: url(../src/Images/image-5.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item11 {
+    background-image: url(../src/Images/Grid-image9.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item12 {
+    background-image: url(../src/Images/Grid-image10.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item13 {
+    background-image: url(../src/Images/Grid-image11.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item14 {
+    background-image: url(../src/Images/Grid-image12.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}.grid-item15 {
+    background-image: url(../src/Images/Grid-image13.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+.grid-item16 {
+    background-image: url(../src/Images/image-6.png);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 15px;
+    align-items: flex-start;
+}
+/* relative md:left-56 left-56 top-3 */
