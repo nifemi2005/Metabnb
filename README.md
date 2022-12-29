@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+The snippet of the site can be seen below(Laptop view)
+
+![metabnb](https://user-images.githubusercontent.com/91688854/210005335-febbdce2-5f5b-4a9c-8a76-7ffc6301fdd4.JPG)
 
 ### `npm run build`
 
