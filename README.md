@@ -20,6 +20,8 @@ The snippet of the site can be seen below(Laptop view)
 
 Mobile view can be seen below
 
+![metabnb](https://user-images.githubusercontent.com/91688854/210005662-ee3a36c3-35ad-406f-922e-501ba6671c61.JPG)
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
