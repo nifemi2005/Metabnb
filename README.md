@@ -14,11 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-The snippet of the site can be seen below(Laptop view)
+### The snippet of the site can be seen below(Laptop view)
 
 ![metabnb](https://user-images.githubusercontent.com/91688854/215276110-91d2d082-6873-45cf-b478-3a1577bd467d.JPG)
 
-Mobile view can be seen below
+### Mobile view can be seen below
 
 ![metabnb](https://user-images.githubusercontent.com/91688854/215275952-cfe3a5d5-8fe7-4ab7-8413-fdb262e8fbc1.JPG)
 
