@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 The snippet of the site can be seen below(Laptop view)
 
-![metabnb](https://user-images.githubusercontent.com/91688854/215276028-f59368c9-ebf2-4a68-898f-044efac19e6b.JPG)
+![metabnb](https://user-images.githubusercontent.com/91688854/215276110-91d2d082-6873-45cf-b478-3a1577bd467d.JPG)
 
 Mobile view can be seen below
 
