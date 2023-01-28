@@ -16,11 +16,11 @@ You may also see any lint errors in the console.
 
 The snippet of the site can be seen below(Laptop view)
 
-![metabnb](https://user-images.githubusercontent.com/91688854/210005335-febbdce2-5f5b-4a9c-8a76-7ffc6301fdd4.JPG)
+![metabnb](https://user-images.githubusercontent.com/91688854/215276028-f59368c9-ebf2-4a68-898f-044efac19e6b.JPG)
 
 Mobile view can be seen below
 
-![metabnb](https://user-images.githubusercontent.com/91688854/210005662-ee3a36c3-35ad-406f-922e-501ba6671c61.JPG)
+![metabnb](https://user-images.githubusercontent.com/91688854/215275952-cfe3a5d5-8fe7-4ab7-8413-fdb262e8fbc1.JPG)
 
 ### `npm run build`
 
@@ -32,4 +32,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Live url: https://task-metabnb.netlify.app/
+# Live url: 
+https://task-metabnb.netlify.app/
